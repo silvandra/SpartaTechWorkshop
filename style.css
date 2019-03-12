@@ -1,0 +1,30 @@
+body {
+  background: url("background.jpg") no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.welcome img {
+  width: 25%;
+  border-radius: 100px;
+}
+
+
+.welcome {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.welcome-text {
+  padding: 10px;
+  color: white;
+}
+
+
+.about-us {
+  background-color: white;
+}
